@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Z/ZPxzdtq4G6JWRQxpXOiNf0zfC/JncwnF7ByCnThJ8=",
+  "Source": "ResumeScreeningSystem",
+  "BasePath": "_content/ResumeScreeningSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ResumeScreeningSystem\\wwwroot",
+      "Source": "ResumeScreeningSystem",
+      "ContentRoot": "D:\\BackendInternship\\ResumeScreeningSystem\\wwwroot\\",
+      "BasePath": "_content/ResumeScreeningSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\BackendInternship\\ResumeScreeningSystem\\wwwroot\\uploads\\RESUME - Muhamed Salama_.pdf",
+      "SourceId": "ResumeScreeningSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\BackendInternship\\ResumeScreeningSystem\\wwwroot\\",
+      "BasePath": "_content/ResumeScreeningSystem",
+      "RelativePath": "uploads/RESUME - Muhamed Salama_.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\RESUME - Muhamed Salama_.pdf"
+    }
+  ]
+}

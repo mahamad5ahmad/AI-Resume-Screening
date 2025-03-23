@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\BackendInternship\\ResumeScreeningSystem\\wwwroot\\uploads\\RESUME - Muhamed Salama_.pdf",
+      "PackagePath": "staticwebassets\\uploads\\RESUME - Muhamed Salama_.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ResumeScreeningSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ResumeScreeningSystem.props",
+      "PackagePath": "build\\ResumeScreeningSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ResumeScreeningSystem.props",
+      "PackagePath": "buildMultiTargeting\\ResumeScreeningSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ResumeScreeningSystem.props",
+      "PackagePath": "buildTransitive\\ResumeScreeningSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

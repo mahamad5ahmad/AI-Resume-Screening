@@ -1,0 +1,6 @@
+@ResumeScreeningSystem_HostAddress = http://localhost:5089
+
+GET {{ResumeScreeningSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
